@@ -2,7 +2,7 @@
 
 ## Screenshot
 <p align="center">
-<img width=1000 src="/images/1.png">
+<img width=1000 src="https://github.com/prishitakapoor/Games/blob/master/tic-tac-toe-game-main/images/1.png">
   
  <p align="center">
 <img width=1000 src="/images/2.png">
